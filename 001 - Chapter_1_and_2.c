@@ -1,5 +1,6 @@
 //#include <stdio.h>
 
+// To compute amount of interest.
 //int main() {
 
 //    int p, n;
